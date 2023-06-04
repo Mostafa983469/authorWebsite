@@ -1,0 +1,12 @@
+com\example\authorWebsite\Models\History$HistoryBuilder.class
+com\example\authorWebsite\Models\User$UserBuilder.class
+com\example\authorWebsite\Models\Comment.class
+com\example\authorWebsite\Models\History.class
+com\example\authorWebsite\Models\Author.class
+com\example\authorWebsite\Models\Article.class
+com\example\authorWebsite\Models\Role$RoleBuilder.class
+com\example\authorWebsite\Models\Comment$CommentBuilder.class
+com\example\authorWebsite\Models\Author$AuthorBuilder.class
+com\example\authorWebsite\Models\User.class
+com\example\authorWebsite\Models\Article$ArticleBuilder.class
+com\example\authorWebsite\Models\Role.class
